@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-model-postgresql.
+
 # think-model-postgresql
 
 [![npm](https://img.shields.io/npm/v/think-model-postgresql.svg?style=flat-square)]()
